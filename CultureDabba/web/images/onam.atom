@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://culturedabba.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://culturedabba.com/blogs/news/tagged/onam.atom"/>
+  <title>CultureDabba - News</title>
+  <updated>2017-11-20T02:31:00-06:00</updated>
+  <author>
+    <name>CultureDabba</name>
+  </author>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/onam-ashamsakal-culturedabba-wishes-everyone-a-very-happy-onam</id>
+    <published>2017-09-04T15:24:00-05:00</published>
+    <updated>2017-09-04T15:28:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/onam-ashamsakal-culturedabba-wishes-everyone-a-very-happy-onam"/>
+    <title>&quot;Onam Ashamsakal&quot;. CultureDabba wishes everyone a very happy Onam.</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<div class="_5pbx userContent" data-ft='{"tn":"K"}' id="js_2mm">
+<p><img src="//cdn.shopify.com/s/files/1/1017/1847/files/HappyOnamPost2017.001_large.jpeg?v=1504556615" alt=""></p>
+<p>#HappyOnam #Onam</p>
+</div>]]>
+    </content>
+  </entry>
+</feed>

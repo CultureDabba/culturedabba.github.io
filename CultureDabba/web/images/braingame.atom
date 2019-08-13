@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://culturedabba.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://culturedabba.com/blogs/news/tagged/braingame.atom"/>
+  <title>CultureDabba - News</title>
+  <updated>2017-11-20T02:31:00-06:00</updated>
+  <author>
+    <name>CultureDabba</name>
+  </author>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/can-you-solve-this-firecracker-puzzle</id>
+    <published>2017-10-11T00:42:00-05:00</published>
+    <updated>2017-10-11T00:43:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/can-you-solve-this-firecracker-puzzle"/>
+    <title>Can you solve this firecracker puzzle?</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3ov9jRRzsfcNWT8Rck" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen></iframe></div><p><a href="https://giphy.com/gifs/diwali-firecracker-indian-culture-3ov9jRRzsfcNWT8Rck">via GIPHY</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/play-a-puzzle-word-game-post-answer-in-comments</id>
+    <published>2017-09-29T01:25:00-05:00</published>
+    <updated>2017-09-29T01:25:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/play-a-puzzle-word-game-post-answer-in-comments"/>
+    <title>Play a puzzle / Word Game, post answer in comments</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="//cdn.shopify.com/s/files/1/1017/1847/files/CDPuzzle_large.png?v=1506666282" alt="">]]>
+    </content>
+  </entry>
+</feed>

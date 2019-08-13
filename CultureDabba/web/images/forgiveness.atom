@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://culturedabba.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://culturedabba.com/blogs/news/tagged/forgiveness.atom"/>
+  <title>CultureDabba - News</title>
+  <updated>2017-11-20T02:31:00-06:00</updated>
+  <author>
+    <name>CultureDabba</name>
+  </author>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/believe</id>
+    <published>2017-10-05T23:40:00-05:00</published>
+    <updated>2017-10-05T23:40:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/believe"/>
+    <title>Believe!</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="//cdn.shopify.com/s/files/1/1017/1847/files/giphy-downsized-large_large.gif?v=1507264711" alt="">]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/forgiveness-in-four-steps</id>
+    <published>2017-10-04T00:33:00-05:00</published>
+    <updated>2017-10-04T00:33:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/forgiveness-in-four-steps"/>
+    <title>Forgiveness in four steps</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>In a world of hate and revenge,</span><span> how do we teach Children the message of peace and forgiveness?</span></p>
+<p><span><iframe width="560" height="315" src="https://www.youtube.com/embed/ixLopkdq3UE" frameborder="0" allowfullscreen=""></iframe></span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/teaching-kids-forgiveness-4-easy-steps</id>
+    <published>2017-03-25T01:59:00-05:00</published>
+    <updated>2017-03-25T01:59:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/teaching-kids-forgiveness-4-easy-steps"/>
+    <title>Teaching kids forgiveness - 4 Easy steps</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span id="ember10065" class="ember-view"><span>Raising responsible kids goes far beyond Culture. All our products are inspired by thinking of this sort.</span></span></p>
+<p><span class="ember-view"><span><iframe width="560" height="315" src="https://www.youtube.com/embed/ciWnIqwxSWU" frameborder="0" allowfullscreen=""></iframe></span></span></p>]]>
+    </content>
+  </entry>
+</feed>
