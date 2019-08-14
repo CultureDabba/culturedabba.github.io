@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://culturedabba.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://culturedabba.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://culturedabba.com/collections/all.atom"/>
+  <title>CultureDabba</title>
+  <updated>2017-11-26T16:02:42-06:00</updated>
+  <author>
+    <name>CultureDabba</name>
+  </author>
+  <entry>
+    <id>https://culturedabba.com/products/126541561881</id>
+    <published>2017-11-26T16:02:42-06:00</published>
+    <updated>2017-11-26T16:02:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/products/christmas-edition"/>
+    <title>Christmas Edition</title>
+    <s:type>Amazon</s:type>
+    <s:vendor>CultureDabba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1017/1847/products/RGChristmas.001.png?v=1511733897" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CultureDabba<br />
+        <strong>Type: </strong>Amazon<br />
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><a href="http://myBook.to/christmaskindle" target="_blank" rel="noopener noreferrer"><span><img src="https://churchprbook.com/wp-content/uploads/2016/04/Amazon-order.png" alt="" width="242" height="90"></span></a></p>
+<p><span>Let your kids learn about Christmas with hours of fun stories, puzzles, riddles, craft activities and coloring pages. Also, includes free online interactive educational games and quizzes - Just use the online code to play. Designed by parents with help of early childhood development professionals. We are consistently rated with 5 stars on Facebook by happy kids and satisfied parents. </span></p>
+<p><strong>Suitable for 5-10 year old</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://culturedabba.com/products/126541561881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/products/66487975961</id>
+    <published>2017-09-11T22:16:02-05:00</published>
+    <updated>2017-09-11T22:16:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/products/rakhi-special-stories-festivals-and-mythologies-of-india"/>
+    <title>Rakhi Special - Stories, Festivals and Mythologies of India</title>
+    <s:type>Amazon</s:type>
+    <s:vendor>CultureDabba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1017/1847/products/Amazon_Cover_Rakhi.png?v=1505186443" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CultureDabba<br />
+        <strong>Type: </strong>Amazon<br />
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><a href="http://myBook.to/rakhikindle" target="_blank" rel="noopener noreferrer"><span><img src="//cdn.shopify.com/s/files/1/1017/1847/files/Amazon-order_medium.png?v=1511739656" alt=""></span></a></p>
+<p><span>Let your kids learn about Rakhi / Rakshabandhan with hours of fun stories, puzzles, riddles and craft activities.</span></p>
+<p><span>This edition includes Rakhi, Hanuman Sursa, Explore Kaziranga, Jatak Katha, Akbar Birbal, Discover Taj Mahal, Bangalore and much more.</span></p>
+<meta charset="utf-8">
+<p><span>Also includes free online interactive educational games and quizzes.</span></p>
+<p><strong>Suitable for<span> </span>5-10 year old</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children Book</s:tag>
+    <s:tag>Craft</s:tag>
+    <s:tag>Culture</s:tag>
+    <s:tag>Hinduism</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Rakhi</s:tag>
+    <s:tag>Rakshabandhan</s:tag>
+    <s:variant>
+      <id>https://culturedabba.com/products/66487975961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/products/66488336409</id>
+    <published>2017-09-11T22:14:59-05:00</published>
+    <updated>2017-09-11T22:14:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/products/janmashtami-special-stories-festivals-and-mythologies-of-india"/>
+    <title>Janmashtami Special- Stories, Festivals and Mythologies of India</title>
+    <s:type>Amazon</s:type>
+    <s:vendor>CultureDabba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1017/1847/products/Amazon_Cover_Janamashtami.png?v=1505186310" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CultureDabba<br />
+        <strong>Type: </strong>Amazon<br />
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><a href="http://myBook.to/janamkindle" target="_blank" rel="noopener noreferrer"><span><img src="//cdn.shopify.com/s/files/1/1017/1847/files/Amazon-order_medium.png?v=1511739656" alt=""></span></a></p>
+<p><span>Let your kids learn about Janmashtami (Krishna's Birthday) with hours of fun stories, puzzles, riddles, craft activities and coloring pages. </span></p>
+<meta charset="utf-8">
+<p><span>Includes stories of Krishna Kansa, Amrit Manthan, Jatak Katha and Tenali Raman. Discover Kathak, Chai/Tea, Red Fort, Jaipur, Gir National Forest, Warli Art and Veena.</span></p>
+<p><span>Also includes free online interactive educational games and quizzes.</span></p>
+<p><br><b>Suitable for 5-10 year old</b></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brij</s:tag>
+    <s:tag>Children Book</s:tag>
+    <s:tag>Craft</s:tag>
+    <s:tag>Culture</s:tag>
+    <s:tag>Hinduism</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Janamashtami</s:tag>
+    <s:tag>Krishna</s:tag>
+    <s:tag>Mathura</s:tag>
+    <s:variant>
+      <id>https://culturedabba.com/products/66488336409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/products/66492006425</id>
+    <published>2017-09-11T21:14:28-05:00</published>
+    <updated>2017-09-11T21:14:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/products/legends-of-india-shiva-and-bhasmasur"/>
+    <title>Legends of India - Shiva and Bhasmasur</title>
+    <s:type>Amazon</s:type>
+    <s:vendor>CultureDabba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1017/1847/products/Amazon_Cover_Shiva_Bhasmasur_2.png?v=1505187717" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CultureDabba<br />
+        <strong>Type: </strong>Amazon<br />
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><a href="http://myBook.to/shivabskindle" target="_blank" rel="noopener noreferrer"><span><img src="//cdn.shopify.com/s/files/1/1017/1847/files/Amazon-order_medium.png?v=1511739656" alt=""></span></a></p>
+<p><span>The first in the Legends of India series - Shiva and Bhasmasur. The mythological story has been given a fun adaptation for kids with a witty storytelling and beautiful illustrations.</span></p>
+<p><strong>Suitable for 5-10 year old</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bhasmasur</s:tag>
+    <s:tag>Children Book</s:tag>
+    <s:tag>Children Stories</s:tag>
+    <s:tag>Culture</s:tag>
+    <s:tag>Hinduism</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Shiva</s:tag>
+    <s:variant>
+      <id>https://culturedabba.com/products/66492006425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/products/66491842585</id>
+    <published>2017-09-11T21:14:28-05:00</published>
+    <updated>2017-09-11T21:14:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/products/legends-of-india-krishna-and-kaliya"/>
+    <title>Legends of India - Krishna and Kaliya</title>
+    <s:type>Amazon</s:type>
+    <s:vendor>CultureDabba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1017/1847/products/Amazon_Cover_Krishna_Kaliya_2.png?v=1505187819" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CultureDabba<br />
+        <strong>Type: </strong>Amazon<br />
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><a href="http://myBook.to/krishklkindle" target="_blank" rel="noopener noreferrer"><span><img src="//cdn.shopify.com/s/files/1/1017/1847/files/Amazon-order_medium.png?v=1511739656" alt=""></span></a></p>
+<p><span>The famous story of Krishna and Kaliya is here in the Legends of India series. Your kid will enjoy the adventurous and fun story of how Krishna defeated the terrible Kaliya.</span></p>
+<meta charset="utf-8">
+<p><span>Also, includes free online interactive educational games and quizzes - Just use the online code to play. </span></p>
+<p><strong>Suitable for 5-10 year old</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brij</s:tag>
+    <s:tag>Children Book</s:tag>
+    <s:tag>Children Stories</s:tag>
+    <s:tag>Craft</s:tag>
+    <s:tag>Culture</s:tag>
+    <s:tag>Hinduism</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Kaliya</s:tag>
+    <s:tag>Krishna</s:tag>
+    <s:tag>Legends of India - Krishna and Kaliya</s:tag>
+    <s:tag>Mathura</s:tag>
+    <s:variant>
+      <id>https://culturedabba.com/products/66491842585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/products/8104998854</id>
+    <published>2017-09-11T21:14:28-05:00</published>
+    <updated>2017-09-11T21:14:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/products/1-month"/>
+    <title>Diwali Special- Stories, Festivals and Mythologies of India</title>
+    <s:type>Amazon</s:type>
+    <s:vendor>CultureDabba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1017/1847/products/Amazon_Cover_Diwali.png?v=1505185931" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CultureDabba<br />
+        <strong>Type: </strong>Amazon<br />
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><a href="http://myBook.to/diwalikindle" target="_blank" rel="noopener noreferrer"><span><img src="https://churchprbook.com/wp-content/uploads/2016/04/Amazon-order.png" alt="" width="242" height="90"></span></a></p>
+<p><span>Let your kids learn about Diwali (Festival of Light) with hours of fun stories, puzzles, riddles, craft activities and coloring pages. </span></p>
+<p><span></span><span>Includes stories of Hanuman, Ram Ravan, Jatak Katha and Akbar Birbal. Discover Delhi, Victoria Memorial, and Palkhi.</span></p>
+<meta charset="utf-8">
+<p><span>Also, includes free online interactive educational games and quizzes - Just use the online code to play. </span></p>
+<p><strong>Suitable for 5-10 year old</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children Book</s:tag>
+    <s:tag>Craft</s:tag>
+    <s:tag>Culture</s:tag>
+    <s:tag>Diwali</s:tag>
+    <s:tag>Hinduism</s:tag>
+    <s:tag>India</s:tag>
+    <s:variant>
+      <id>https://culturedabba.com/products/8104998854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

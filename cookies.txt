@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+culturedabba.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+culturedabba.com	TRUE	/	FALSE	1999999999	_shopify_country	United+States
+culturedabba.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+culturedabba.com	TRUE	/	FALSE	1999999999	_shopify_y	74eabbc9-9444-4a54-aa15-5294c83186cc
+.culturedabba.com	TRUE	/	FALSE	1999999999	__cfduid	d91b801d834b89dc8232b207411e1f4921565727678
+

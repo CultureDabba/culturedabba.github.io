@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://culturedabba.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://culturedabba.com/blogs/news/tagged/shiva.atom"/>
+  <title>CultureDabba - News</title>
+  <updated>2017-11-20T02:31:00-06:00</updated>
+  <author>
+    <name>CultureDabba</name>
+  </author>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/shiva-bhasmasur-ebook</id>
+    <published>2017-02-26T23:50:00-06:00</published>
+    <updated>2017-02-26T23:51:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/shiva-bhasmasur-ebook"/>
+    <title>Shiva Bhasmasur ebook</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>A fun story with beautiful art for kids! </span><br><span>Free iBook at </span><a href="http://bit.ly/FreeiBook" class="yt-uix-servicelink  " data-target-new-window="True" data-url="http://bit.ly/FreeiBook" data-servicelink="CCkQ6TgYACITCMfxh9nJr9ICFZQGTgods_sEGSj4HQ" rel="nofollow noopener" target="_blank">http://bit.ly/FreeiBook</a><br><span> Amazon Kindle at </span><a href="http://mybook.to/ShivaBhasmasur" class="yt-uix-servicelink  " data-target-new-window="True" data-url="http://mybook.to/ShivaBhasmasur" data-servicelink="CCkQ6TgYACITCMfxh9nJr9ICFZQGTgods_sEGSj4HQ" rel="nofollow noopener" target="_blank">http://mybook.to/ShivaBhasmasur</a><p><a class="read-more" href="https://culturedabba.com/blogs/news/shiva-bhasmasur-ebook">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/bJORZRcGTIM?ecver=1" frameborder="0" allowfullscreen=""></iframe>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/free-worlds-first-fully-interactive-south-asian-kids-ibook-get-it-now</id>
+    <published>2017-02-13T23:56:00-06:00</published>
+    <updated>2017-02-13T23:58:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/free-worlds-first-fully-interactive-south-asian-kids-ibook-get-it-now"/>
+    <title>Free! World&apos;s first fully interactive South Asian Kids iBook..Get it now!</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<div class="_5pbx userContent" data-ft='{"tn":"K"}' id="js_hw">
+<p>Thanks for your support and love. Here is a free gift...The World's first fully interactive iBook for South Asian kids. Get your here for a limited time. <a href="http://bit.ly/FreeiBook" target="_blank" rel="nofollow noopener" onclick='LinkshimAsyncLink.referrer_log(this, "http:\/\/bit.ly\/FreeiBook", "\/si\/ajax\/l\/render_linkshim_log\/?u=http\u00253A\u00252F\u00252Fbit.ly\u00252FFreeiBook&amp;h=ATNTlAlVzhsaV4Gak3Oi5Z3JeCSxTEcx-TU1qwB1SGBQqazJTQCJITDVP_HL2stNAl14w3CXxqPcZCzEiCH9023QfRz2W8XCNn4fIOjwPBVpHcw5u88tX5fgi2Aoo49cFQ1_YkEPgA&amp;render_verification=0&amp;enc=AZOrVf5-oHXVhIzCWivh5Cf9fY5Ignnb8ylLZse7yP-ULbUGJoAMRG4-udFu5tbjDSXkXO5XGI37SUxYBDvk0LqbC_xkIJBMM5l-tQa98ykKHcHQVG4-0BZYhL-TZeOhaUIYfEBmXYNBmfNT111OAMse236nsjXwCOSSKB3M5Jg2him6yp_8UEoSVCeOj9GTpcOK0jHk1dlI6vglDGPQ1IZK&amp;d");' onmouseover='LinkshimAsyncLink.swap(this, "http:\/\/bit.ly\/FreeiBook");'>http://bit.ly/FreeiBook</a></p>
+</div>
+<div class="_3x-2">
+<div data-ft='{"tn":"H"}'>
+<div class="mtm">
+<div id="u_jsonp_3_9" class="_6m2 _1zpr clearfix _dcs _4_w4 _6m8 _59ap" data-ft='{"tn":"H"}'>
+<div class="clearfix _2r3x">
+<div class="lfloat _ohe">
+<div class="_150c" data-ft='{"tn":"F"}' id="u_jsonp_3_a"><img class="_3chq" src="https://scontent.xx.fbcdn.net/v/t15.0-10/16732294_1249441161818259_2414025693437362176_n.jpg?oh=687e717c6256857ed4c55cf367434655&amp;oe=58FDADB0"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+</feed>

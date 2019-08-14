@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://culturedabba.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://culturedabba.com/blogs/news/tagged/jig-saw.atom"/>
+  <title>CultureDabba - News</title>
+  <updated>2017-11-20T02:31:00-06:00</updated>
+  <author>
+    <name>CultureDabba</name>
+  </author>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/christmas-tree-jigsaw</id>
+    <published>2016-12-25T13:57:00-06:00</published>
+    <updated>2016-12-25T13:57:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/christmas-tree-jigsaw"/>
+    <title>Christmas Tree JigSaw</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p>Done with unwrapping your holiday gift? Now unwrap this puzzle...Solve the jigsaw to reveal the real question.</p><p><a class="read-more" href="https://culturedabba.com/blogs/news/christmas-tree-jigsaw">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<iframe src="https://www.bookwidgets.com/play/EBWB4M" width="1024" height="768"></iframe>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/jigsaw-amrit-manthan</id>
+    <published>2016-12-21T01:23:00-06:00</published>
+    <updated>2016-12-21T01:23:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/jigsaw-amrit-manthan"/>
+    <title>Jigsaw Amrit Manthan</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Play this JigSaw and learn about the "Amrit Manthan" story.<p><a class="read-more" href="https://culturedabba.com/blogs/news/jigsaw-amrit-manthan">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<iframe src="https://www.bookwidgets.com/play/CBV5R9" width="1024" height="768"></iframe>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://culturedabba.com/blogs/news/jig-saw-truck</id>
+    <published>2016-12-19T00:15:00-06:00</published>
+    <updated>2016-12-20T23:39:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://culturedabba.com/blogs/news/jig-saw-truck"/>
+    <title>Are you a JigSaw pro?</title>
+    <author>
+      <name>Rahul Gupta</name>
+    </author>
+    <summary type="html">
+      <![CDATA[How fast can you solve this JigSaw?<p><a class="read-more" href="https://culturedabba.com/blogs/news/jig-saw-truck">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<iframe src="https://www.bookwidgets.com/play/MBVWS6" width="1024" height="768"></iframe>]]>
+    </content>
+  </entry>
+</feed>
